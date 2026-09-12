@@ -2,13 +2,39 @@
 
 Tworzę nowoczesne strony internetowe i aplikacje webowe.
 
-Rozwijam swoje umiejętności w **HTML, CSS i JavaScript**, budując praktyczne projekty — od stron firmowych po aplikacje korzystające z API i localStorage.
+Rozwijam swoje umiejętności w **HTML, CSS i JavaScript**, budując praktyczne projekty — od stron firmowych po interaktywne aplikacje wykorzystujące localStorage i API.
+
+## ⭐ Główny projekt — MEBLO
+
+**MEBLO** to rozbudowany demonstracyjny sklep meblowy zbudowany w HTML, CSS i JavaScript.
+
+Projekt zawiera m.in.:
+
+- 24 produkty i osobne strony produktowe
+- kategorie: sofy, komody, stoły i szafy
+- wyszukiwarkę produktów
+- filtrowanie i sortowanie
+- system ulubionych
+- koszyk wykorzystujący localStorage
+- demonstracyjny proces zamówienia
+- strony pomieszczeń i inspiracji
+- interaktywny showroom 360°
+- responsywny interfejs mobilny
+- wielostronicową strukturę serwisu
+
+### 🔗 MEBLO
+
+**[Live Demo](https://krejzolix-stack.github.io/meblo/)** • **[Kod na GitHubie](https://github.com/krejzolix-stack/meblo)**
+
+---
 
 ## 🌐 Portfolio
 
-👉 https://krejzolix-stack.github.io/portfolio/
+👉 **[Zobacz moje portfolio](https://krejzolix-stack.github.io/portfolio/)**
 
-## 🛠 Technologie
+---
+
+## 🛠️ Technologie
 
 - HTML
 - CSS
@@ -18,57 +44,54 @@ Rozwijam swoje umiejętności w **HTML, CSS i JavaScript**, budując praktyczne 
 - Git & GitHub
 - GitHub Pages
 
-## 🚀 Projekty
+---
+
+## 🚀 Pozostałe projekty
 
 ### 🚗 AutoClean
 Strona internetowa studia detailingu samochodowego.
 
-Demo: https://krejzolix-stack.github.io/autoclean/
+**[Demo](https://krejzolix-stack.github.io/autoclean/)**
 
 ### 🍕 FORNO
 Nowoczesna strona włoskiej restauracji.
 
-Demo: https://krejzolix-stack.github.io/forno/
+**[Demo](https://krejzolix-stack.github.io/forno/)**
 
 ### 💰 QuickQuote
 Interaktywny kalkulator wyceny strony internetowej.
 
-Demo: https://krejzolix-stack.github.io/quickquote/
+**[Demo](https://krejzolix-stack.github.io/quickquote/)**
 
 ### ✅ TaskFlow
 Aplikacja do zarządzania zadaniami z wykorzystaniem localStorage.
 
-Demo: https://krejzolix-stack.github.io/taskflow/
+**[Demo](https://krejzolix-stack.github.io/taskflow/)**
 
-### 🌤 WeatherDash
-Aplikacja pogodowa pobierająca dane z zewnętrznego API.
+### 🌦️ WeatherDash
+Aplikacja pogodowa prezentująca dane pogodowe.
 
-Demo: https://krejzolix-stack.github.io/weatherdash/
+**[Demo](https://krejzolix-stack.github.io/weatherdash/)**
 
 ### 💳 BudgetFlow
-Aplikacja do zarządzania domowym budżetem.
+Aplikacja do zarządzania budżetem.
 
-Demo: https://krejzolix-stack.github.io/budgetflow/
+**[Demo](https://krejzolix-stack.github.io/budgetflow/)**
 
 ### 📊 StatTrack
-Dashboard do analizy i wizualizacji danych.
+Projekt prezentujący statystyki w czytelnym interfejsie.
 
-Demo: https://krejzolix-stack.github.io/stattrack/
+**[Demo](https://krejzolix-stack.github.io/stattrack/)**
 
-### 👥 ClientBoard
-Mini CRM do zarządzania klientami i projektami.
+### 📋 ClientBoard
+Panel do organizacji informacji o klientach.
 
-Demo: https://krejzolix-stack.github.io/clientboard/
-
-## 📚 Aktualnie rozwijam
-
-- JavaScript
-- pracę z API
-- responsywne strony internetowe
-- tworzenie aplikacji webowych
+**[Demo](https://krejzolix-stack.github.io/clientboard/)**
 
 ---
 
-Więcej projektów znajdziesz w moim portfolio 👇
+## 📫 Kontakt
 
-https://krejzolix-stack.github.io/portfolio/
+Najłatwiej zobaczyć moje projekty przez portfolio:
+
+👉 **[krejzolix-stack.github.io/portfolio](https://krejzolix-stack.github.io/portfolio/)**
